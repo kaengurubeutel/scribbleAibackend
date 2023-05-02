@@ -1,0 +1,1 @@
+conda activate /Users/praktikant_02/Desktop/stable-diffusion-cpu/envs/default
